@@ -1,0 +1,7 @@
+Langchain 
+Langchain-openai 
+Langchain-core
+Langchain-community 
+Gradio
+
+     
